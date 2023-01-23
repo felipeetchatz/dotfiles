@@ -4,7 +4,7 @@ cd "$HOME";
 
 sudo apt-get install git-core zsh
 
-echo "Cloning nandosousafr/dotfiles..."
+echo "Cloning felipeetchatz/dotfiles..."
 git clone https://github.com/felipeetchatz/dotfiles.git;
 
 echo "Setting up...";
